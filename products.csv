@@ -1,0 +1,21 @@
+product_id,product_name,product_category,manufacturing_city,size,color,SKU,unit_cost,launch_year
+770487,Product_1,Fitness Equipment,Pune,S,Green,36687537,58.7,2024
+216739,Product_2,Sportswear,Mumbai,XL,Green,47338124,65.71,2019
+126225,Product_3,Electronics,Mumbai,XL,Red,47295260,16.66,2025
+877572,Product_4,Health Supplements,Delhi,XL,Black,58181396,68.56,2023
+388389,Product_5,Fitness Equipment,Delhi,XL,Green,26753883,77.98,2022
+356787,Product_6,Fitness Equipment,Bengaluru,NA,Red,87490893,19.42,2019
+334053,Product_7,Fitness Equipment,Mumbai,L,Black,41244663,69.99,2022
+246316,Product_8,Fitness Equipment,Hyderabad,L,White,59684848,31.65,2024
+872246,Product_9,Fitness Equipment,Hyderabad,S,Green,95225343,17.84,2024
+207473,Product_10,Fitness Equipment,Chennai,XL,Red,95899313,56.61,2020
+809570,Product_11,Sportswear,Delhi,M,Black,52339391,35.09,2019
+876646,Product_12,Fitness Equipment,Pune,L,White,97971488,42.44,2024
+671858,Product_13,Health Supplements,Bengaluru,M,White,85345555,45.42,2024
+191161,Product_14,Sportswear,Pune,XL,Red,39436733,79.8,2020
+719176,Product_15,Sportswear,Delhi,S,Black,30514014,52.06,2025
+542417,Product_16,Sportswear,Pune,S,Blue,61220073,49.69,2022
+133326,Product_17,Sportswear,Pune,S,Grey,25374874,56.13,2023
+131244,Product_18,Electronics,Hyderabad,L,Black,49392920,37.61,2022
+198246,Product_19,Fitness Equipment,Hyderabad,L,Green,33978249,43.08,2019
+329258,Product_20,Electronics,Bengaluru,NA,Green,36697396,16.46,2025
